@@ -1,5 +1,5 @@
 # Laboratorio2_sistemas_embebidos
-#Juego simon dice realizado con una matriz de leds 8x8 bicolor.#
+Juego simon dice realizado con una matriz de leds 8x8 bicolor.
 
 Notas iniciales:
 
