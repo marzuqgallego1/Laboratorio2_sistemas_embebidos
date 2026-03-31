@@ -1,6 +1,8 @@
 # Laboratorio2_sistemas_embebidos
-juego simon dice realizado con una matriz de leds 8x8 bicolor /n
+#Juego simon dice realizado con una matriz de leds 8x8 bicolor.#
+
 Notas iniciales:
+
 Se utilizo una ESP32, una matrriz de leds 8x8 bicolor de anodo comun y 3 notones para la realizacion de este proyecto.
 
 Descripcion del juego:
